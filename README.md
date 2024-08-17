@@ -1,2 +1,2 @@
 # React-Simple-Project
-This is a assignment project.
+This is an assignment project.
